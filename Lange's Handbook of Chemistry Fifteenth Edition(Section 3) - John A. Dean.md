@@ -2,62 +2,98 @@
 
 # INORGANIC CHEMISTRY
 
-3.1 NOMENCLATURE OF INORGANIC COMPOUNDS 3.1  
-3.1.1 Writing Formulas 3.1  
-3.1.2 Naming Compounds 3.3  
-3.1.3 Cations 3.6  
-3.1.4 Anions 3.6  
-3.1.5 Acids 3.8  
-3.1.6 Salts and Functional Derivatives of Acids 3.8  
-Table 3.1 Trivial Names Retained for Acids 3.9  
-3.1.7 Coordination Compounds 3.10  
-3.1.8 Addition Compounds 3.11  
-3.2 PHYSICAL PROPERTIES OF PURE SUBSTANCES 3.12  
-Table 3.2 Physical Constants of Inorganic Compounds 3.12  
-Table 3.3 Synonyms and Mineral Names 3.61 
+3.1 NOMENCLATURE OF INORGANIC COMPOUNDS 
+3.1.1 Writing Formulas 
+3.1.2 Naming Compounds 
+3.1.3 Cations 
+3.1.4 Anions 
+3.1.5 Acids 
+3.1.6 Salts and Functional Derivatives of Acids 
+Table 3.1 Trivial Names Retained for Acids   
+3.1.7 Coordination Compounds 
+3.1.8 Addition Compounds 
+3.2 PHYSICAL PROPERTIES OF PURE SUBSTANCES 
+Table 3.2 Physical Constants of Inorganic Compounds  
+Table 3.3 Synonyms and Mineral Names 
+
+3.1 无机化合物的命名法
+3.1.1 化学式的书写
+3.1.2 化合物的命名
+3.1.3 阳离子
+3.1.4 阴离子
+3.1.5 酸
+3.1.6 盐和酸的官能衍生物
+表3.1 酸的保留俗名
+3.1.7 配位化合物
+3.1.8 加合物
+3.2 纯物质的物理性质
+表3.2 无机化合物的物理常数
+表3.3 同义词和矿物名称
 
 ## 3.1 NOMENCLATURE OF INORGANIC COMPOUNDS
 
 The following synopsis of rules for naming inorganic compounds and the examples given in explanation are not intended to cover all the possible cases. For a more comprehensive and detailed description, see G. J. Leigh (ed.), Nomenclature of Inorganic Chemistry, 3d ed., Blackwell Scientific Publications, Oxford, 1990. This 289-page publication contains the Recommendations 1990 of the Commission on Nomenclature of Inorganic Chemistry and was prepared under the auspices of the International Union of Pure and Applied Chemistry (IUPAC). In particular, the latest report should be consulted for coordination compounds, boron compounds, and crystalline phases of variable composition. 
 
+以下关于无机化合物命名规则的概要及说明性示例无意涵盖所有可能情况。如需更全面、详细的描述，参见 G. J. Leigh（编），《无机化学命名法》，第3版，Blackwell Scientific Publications，牛津，1990年。这本289页的出版物载有无机化学命名委员会1990年的建议，并由国际纯粹与应用化学联合会（IUPAC）主持编写。特别是对于配位化合物、硼化合物和可变组成的晶相，应查阅最新报告。
+
 ## 3.1.1 Writing Formulas
 
-3.1.1.1 Mass Number, Atomic Number, Number of Atoms, and Ionic Charge. The mass num ber, atomic number, number of atoms, and ionic charge of an element are indicated by means of four indices placed around the symbol: 
+3.1.1.1 Mass Number, Atomic Number, Number of Atoms, and Ionic Charge. The mass number, atomic number, number of atoms, and ionic charge of an element are indicated by means of four indices placed around the symbol: 
 
 
+质量数、原子序数、原子数和离子电荷。元素的质量数、原子序数、原子数和离子电荷通过围绕元素符号的四个角标表示：
 
 $$
-\begin{array}{c c c} \text {mass number} & \text {ionic charge} \\ \text {atomic number} & \text {number of atoms} \end{array} ^ {1 5 _ {7} N _ {2} ^ {3 -}}
+\ce{^{\text{mass number}}_{\text{atomic number}}\textbf{SYMBOL}^{\text{ionic charge}}_{\text{number of atoms}}}
 $$
 
-Ionic charge should be indicated by an Arabic superscript numeral preceding the plus or minus sign: Mg<sup>2-</sup>, <sup>3</sup> PO . 
+$$
+\ce{^{15}_{7}N^{+}_{2}}
+$$
 
-3.1.1.2 Placement of Atoms in a Formula. The electropositive constituent (cation) is placed first in a formula. If the compound contains more than one electropositive or more than one electronegative constituent, the sequence within each class should be in alphabetical order of their symbols. 
+Ionic charge should be indicated by an Arabic superscript numeral preceding the plus or minus sign: $\ce{Mg^{2+}}$, $\ce{PO^{3-}4}$ . 
 
-The alphabetical order may be different in formulas and names; for example, $\mathrm { N a N H _ { 4 } H P O _ { 4 } }$ , ammonium sodium hydrogen phosphate. 
+离子电荷应通过加号或减号前的阿拉伯数字上标来表示：$\ce{Mg^{2+}}$, $\ce{PO^{3-}4}$
+
+3.1.1.2 Placement of Atoms in a Formula. The electropositive constituent (cation) is placed first in a formula. If the compound contains more than one electropositive or more than one electronegative constituent, the sequence within each class should be in alphabetical order of their symbols. The alphabetical order may be different in formulas and names; for example, $\ce{NaNH4PO4}$ , ammonium sodium hydrogen phosphate. 
 
 Acids are treated as hydrogen salts. Hydrogen is cited last among the cations 
 
 When there are several types of ligands, anionic ligands are cited before the neutral ligands. 
 
+化学式中原子的排列顺序。化学式中电正性组分（阳离子）置于首位。若化合物含有多于一种电正性组分或多于一种电负性组分，则各类内部的排列顺序应按其元素符号的字母顺序。化学式与名称中的字母顺序可能不同；例如，$\ce{NaNH4PO4}$，ammonium sodium hydrogen phosphate。
+
+酸被视为氢盐。氢在阳离子中排在最后。
+
+当存在多种配体时，阴离子配体排在中性配体之前。
+
+
 3.1.1.3 Binary Compounds between Nonmetals. For binary compounds between nonmetals, that constituent should be placed first which appears earlier in the sequence: 
+
+非金属之间的二元化合物。对于非金属之间的二元化合物，应将序列中出现较早的那个组分放在前面：
 
 Rn, Xe, Kr, Ar, Ne, He, B, Si, C, Sb, As, P, N, H, Te, Se, S, At, I, Br, Cl, O, F 
 
-Examples: $\mathrm { A s C l _ { 3 } , S b H _ { 3 } , H _ { 3 } T e , B r F _ { 3 } , O F _ { 2 } }$ , and $\mathrm { N } _ { 4 } \mathrm { S } _ { 4 }$ 
+Examples: $\ce{AsCl3} \; \ce{SbH3}  \; \ce{H3Tc} \; \ce{BrF3} \; \ce{OF2}$ , and $\ce{N4S4}$ .
 
 3.1.1.4 Chain Compounds. For chain compounds containing three or more elements, the sequence should be in accordance with the order in which the atoms are actually bound in the molecule or ion. 
 
-Examples: SCN<sup></sup> (thiocyanate), HSCN (hydrogen thiocyanate or thiocyanic acid), HNCO (hydrogen isocyanate), HONC (hydrogen fulminate), and $\mathrm { H P H } _ { 2 } \mathrm { O } _ { 2 }$ (hydrogen phosphinate). 
+链状化合物。对于含有三种或更多元素的链状化合物，其排列顺序应按照原子在分子或离子中实际结合的顺序。
 
-3.1.1.5 Use of Centered Period. A centered period is used to denote water of hydration, other solvates, and addition compounds; for example, $\mathrm { C u S O } _ { 4 } \cdot 5 \mathrm { H } _ { 2 } \mathrm { O }$ , copper(II) sulfate 5-water (or pentahydrate). 
+Examples: $\ce{SCN^{-}}$ (thiocyanate), $\ce{HSCN}$ (hydrogen thiocyanate or thiocyanic acid), $\ce{HNCO}$ (hydrogen isocyanate), $\ce{HONC}$ (hydrogen fulminate), and $\ce{HPH2O2}$ (hydrogen phosphinate). 
+
+3.1.1.5 Use of Centered Period. A centered period is used to denote water of hydration, other solvates, and addition compounds; for example, $\ce{CuSO4*5H2O}$ , copper(II) sulfate 5-water (or pentahydrate). 
+
+居中圆点的使用。居中圆点用于表示水合水、其他溶剂合物及加合物； for example, $\ce{CuSO4*5H2O}$ , copper(II) sulfate 5-water (or pentahydrate). 
 
 3.1.1.6 Free Radicals. In the formula of a polyatomic radical an unpaired electron(s) is(are) indicated by a dot placed as a right superscript to the parentheses (or square bracket for coordination compounds). In radical ions the dot precedes the charge. In structural formulas, the dot may be placed to indicate the location of the unpaired electron(s). 
+
+自由基。在多原子自由基的化学式中，未配对电子用置于括号右上角的点表示（配位化合物用方括号）。在自由基离子中，点位于电荷之前。在结构式中，点的位置可用来指示未配对电子的位置。
 
 Examples: 
 
 $$
-(\mathrm{HO}) ^ {\cdot} \quad (\mathrm{O} _ {2}) ^ {2 \cdot} \quad (\dot {\mathrm{NH}} _ {3} ^ {+})
+
 $$
 
 3.1.1.7 Enclosing Marks. Where it is necessary in an inorganic formula, enclosing marks (parentheses, braces, and brackets) are nested within square brackets as follows: 
